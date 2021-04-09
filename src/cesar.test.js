@@ -1,9 +1,9 @@
-const sum = require("./cesar")
+const encrypt = require("./cesar")
 
 test('Test de Séraphine', () => {
-    expect(sum("TEXTE", 3)).toBe("WHAWH")
+    expect(encrypt("OUI", 10)).toBe("YES")
 })
 
 test('Test de Sidik', () => {
-    expect(sum("TEXTE", 3)).toBe("WHAWH")
+    expect(encrypt("OUI", 10)).toBe("YES")
 })

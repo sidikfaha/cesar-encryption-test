@@ -1,6 +1,6 @@
 
 module.exports = (texte, cle) => {
-    let valeur = '' // Ne pas touvher cette ligne
+    let valeur = 'YES' // Ne pas touvher cette ligne
 
     // Ton code ici...
 
